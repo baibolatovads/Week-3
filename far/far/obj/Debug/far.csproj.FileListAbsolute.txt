@@ -1,0 +1,6 @@
+C:\Users\User_PC\Documents\PP2\Student\week 3\far\far\obj\Debug\far.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\week 3\far\far\bin\Debug\far.exe.config
+C:\Users\User_PC\Documents\PP2\Student\week 3\far\far\bin\Debug\far.exe
+C:\Users\User_PC\Documents\PP2\Student\week 3\far\far\bin\Debug\far.pdb
+C:\Users\User_PC\Documents\PP2\Student\week 3\far\far\obj\Debug\far.exe
+C:\Users\User_PC\Documents\PP2\Student\week 3\far\far\obj\Debug\far.pdb
